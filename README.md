@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @afkrere ⚡
-- 👀 I’m interested in nothing now
+- 👋 Hi, I’m @afkrere
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing now
-- 📫 How to reach me _t.me/afkrere_
+- ⚡ I like dark themes and minimalism
+- 📫 You found me in _t.me/afkrere_
 
 <!---
 afkrere/afkrere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
